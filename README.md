@@ -37,9 +37,9 @@ When setting up eBay OAuth authentication:
 ## 🛠️ Technical Details
 
 - **Platform**: GitHub Pages
-- **Repository**: [shingo-ops/ebay-privacy-policy](https://github.com/shingo-ops/ebay-privacy-policy)
 - **Build**: Automatic deployment on push to main branch
 - **HTTPS**: Enforced by default
+- **Content**: Static HTML page (no server-side processing)
 
 ## 📄 Content
 
@@ -60,9 +60,9 @@ The Privacy Policy covers:
 
 ## 📞 Contact
 
-For questions or updates to this Privacy Policy:
-- **GitHub**: [@shingo-ops](https://github.com/shingo-ops)
-- **Repository Issues**: [Create an issue](https://github.com/shingo-ops/ebay-privacy-policy/issues)
+For questions about this Privacy Policy:
+- Contact your system administrator or the person who provided you with the eBay Listing Manager application
+- Refer to eBay Developer Portal documentation for technical issues
 
 ## 📜 License
 
